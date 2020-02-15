@@ -1,4 +1,4 @@
-setwd("C:/Users/Emma/Desktop/R/Course3/Week4RedoRedo")
+## setwd("C:/Users")
 ## Data download and unzip 
 
 # string variables for file download
